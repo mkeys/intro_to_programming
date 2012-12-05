@@ -1,0 +1,3 @@
+p "Morgan's Goals for Programming"
+p "During this class, I would like to learn... a lot.  I am coming to BDW with a basic knowledge of HTML, CSS and a general confusion over javascript. Programming is a totally foreign concept to me. By the end of this class, I would like to be able to 1) have a basic understanding of programming, 2) build a simple web application, and 3) understand funny programming jokes."
+p "Even though I will not be leaving this class with aspirations of being a programmer, I believe the understanding of basic programming language will help me be better no matter what I do. I'm here to learn as much as possible!  That, and the jokes."
